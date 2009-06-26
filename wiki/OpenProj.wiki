@@ -1,8 +1,8 @@
-Ferramenta free para controle de cronograma.
+#summary Ferramenta para controle de cronograma.
 
 = Introdução =
 
-Ferramenta para controle de cronograma.
+Ferramenta free para controle de cronograma.
 
 = Detalhes =
 
