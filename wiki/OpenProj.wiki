@@ -1,4 +1,4 @@
-#Ferramenta free para controle de cronograma.
+Ferramenta free para controle de cronograma.
 
 = Introdução =
 
