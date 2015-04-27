@@ -1,0 +1,1 @@
+O Almox Express é um projeto criado, para fins de estudo. Será desenvolvido baseados nas melhores práticas do Processo Unificado. Qualquer pessoa está convidada a participar desse projeto, com o propósito de compartilhar conhecimento.
